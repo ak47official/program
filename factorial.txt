@@ -1,0 +1,4 @@
+Expt6  Factorial 
+Java program to find factorial of a number, if the number is negative, then an error message is printed. You can also find factorial using recursion. The first program uses integer data type so it can calculate the factorial of small numbers only.
+Factorial program in java. Here is the list of different types of factorial java code along with sample outputs. If you have no idea on how to solve the Factorial in math, do check out our tutorial below so that you will get an idea. The Factorial program in Java, we have written the following program in five different ways, using standard values, using while loop, using for loop, using do while loop, using method or function, using recursion.
+If you have any doubts related to the code that we shared below do leave a comment here at the end of the post our team will help you out related to ant query.

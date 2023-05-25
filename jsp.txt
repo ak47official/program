@@ -1,0 +1,12 @@
+Expt5JSP
+As mentioned before, JSP is one of the most widely used language over the web. I'm going to list few of them here:
+JSP vs. Active Server Pages (ASP)
+The advantages of JSP are twofold. First, the dynamic part is written in Java, not Visual Basic or other MS specific language, so it is more powerful and easier to use. Second, it is portable to other operating systems and non-Microsoft Web servers.
+JSP vs. Pure Servlets
+It is more convenient to write (and to modify!) regular HTML than to have plenty of println statements that generate the HTML.
+JSP vs. Server-Side Includes (SSI)
+SSI is really only intended for simple inclusions, not for "real" programs that use form data, make database connections, and the like.
+JSP vs. JavaScript
+JavaScript can generate HTML dynamically on the client but can hardly interact with the web server to perform complex tasks like database access and image processing etc.
+JSP vs. Static HTML
+Regular HTML, of course, cannot contain dynamic information

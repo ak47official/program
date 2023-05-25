@@ -1,0 +1,6 @@
+Expt 3 Cookies in Java
+•	In order to use cookies in java, use a Cookie class that is present in javax.servlet.http package.
+•	To make a cookie, create an object of Cookie class and pass a name and its value.
+•	To add cookie in response, use addCookie(Cookie) method of HttpServletResponse interface.
+•	To fetch the cookie, getCookies() method of Request Interface is used.
+•	Cookies are the textual information that is stored in key-value pair format to the client’s browser during multiple requests. It is one of the state management techniques in session tracking. Basically, the server treats every client request as a new one so to avoid this situation cookies are used. When the client generates a request, the server gives the response with cookies having an id which are then stored in the client’s browser

@@ -1,0 +1,3 @@
+Expt7  Fibonacci Series 
+A Fibonacci Series in Java is a series of numbers in which the next number is the sum of the previous two numbers. The first two numbers of the Fibonacci series are 0 and 1. The Fibonacci numbers are significantly used in the computational run-time study of an algorithm to determine the greatest common divisor of two integers.
+In arithmetic, the Wythoff array is an infinite matrix of numbers resulting from the Fibonacci sequence.

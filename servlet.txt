@@ -1,0 +1,6 @@
+Expt4 Servelt
+Servlets are grouped under the Advanced Java tree that are used to create dynamic web applications. Servlets are robust in nature, well scalable and are primarily used in developing server-side applications. If we go a little back in time, we would be able to witness that before the introduction of servlets, CGI (Common Gateway Interface) were used. Amid several indigenous tasks that a servlet is capable of doing, dynamically performing client requests and responses are most common. Other tasks that a servlet can do effectively are:
+•	Can easily manage/control the application flow.
+•	Suitable to implement business logic.
+•	Can effectively balance the load at the server-side.
+•	Easily generate dynamic web content.

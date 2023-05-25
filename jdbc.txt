@@ -1,0 +1,7 @@
+Expt2 JDBC
+1) JDBC API: JDBC API provides various interfaces and methods to establish easy connection with different databases.
+1.	javax.sql.*;  
+2.	java.sql.*;  
+2) JDBC Test suite: JDBC Test suite facilitates the programmer to test the various operations such as deletion, updation, insertion that are being executed by the JDBC Drivers.
+3) JDBC Driver manager: JDBC Driver manager loads the database-specific driver into an application in order to establish the connection with the database. The JDBC Driver manager is also used to make the database-specific call to the database in order to do the processing of a user request.
+4) JDBC-ODBC Bridge Drivers: JDBC-ODBC Bridge Drivers are used to connect the database drivers to the database. The bridge does the translation of the JDBC method calls into the ODBC method call. It makes the usage of the sun.jdbc.odbc package that encompasses the native library in order to access the ODBC (Open Database Connectivity) characteristics.

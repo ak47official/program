@@ -1,0 +1,10 @@
+﻿
+
+Output
+problem Analysis:
+In type casting program, we have three variables: 'i' which is an integer, 'I' which is a long and 'F' which is a Float.
+We then assign value of 'i' variable which is an integer.
+Then we pass this integer value to variable 'l' which is long, like long =i.
+ Then  the same process we pass the value of 'l' which is long to variable 'F' which is Float, like Float F=l
+After the passing this three value we will print this values.
+over all, this program demonstrates how type casting works in java and how we can use it to convert data from one type to another.

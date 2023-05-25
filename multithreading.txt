@@ -1,0 +1,14 @@
+﻿
+
+Output
+·
+problem Analysis:
+In this program, we create s threads using the 'My Thread' class, which
+extends the 'Thread' class.
+Each thread executes a loop where it prints its name and a count From 1 to 3.
+Between each count the thread sleeps For a random time between 0 and 1
+second. 
+
+To execute this program, simply run the 'main' method of the "multithread Analysis class 
+This will create s threads that will execute concurrently printing their names and count to the console.
+You can use this program as a starting point for multithreading program analysis and experimentation.
