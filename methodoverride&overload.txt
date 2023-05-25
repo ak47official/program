@@ -1,0 +1,20 @@
+﻿
+
+﻿
+
+ problem Analysis
+
+This java program demonstrate method overloading and method overriding using the 'Animal' and 'Dog' classes.
+The 'Animal' class has a single method make Sound that prints out a generic animal sound. 
+The 'Dog' class extends the `Animal' class and overrids the make sound () method with its own implementation that prints out Bark!!!
+The 'Dog' class also has its own method make sound (int count) that demonstrate method overloading 
+This method takes an integer argument 'count' and prints out "Bark!" 'count' number of times.
+
+In the 'main' class, we create an instance of Animal' and call its 'make Sound () method, which outputs the
+generic animal sound.
+We then create an instance of 'Dog' and call its 'make Sound ()' method, which outputs Bark!
+Finally, we call the 'make sound (int count)'
+method on the 'Dog' instance with an
+argument 3, which outputs "Bark! Bark!
+Bark!!
+Overall, this program demonstrate the concepts of method overriding and method overloading.

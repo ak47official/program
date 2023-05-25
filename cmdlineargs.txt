@@ -1,0 +1,12 @@
+﻿﻿
+
+
+problem Analysis
+This is a simple java program named 'command Line Example' that demonstrates how to read command Line Arguments passed to java program.
+﻿
+
+The main method takes an array of 'string' objects as a parameter named 'args
+ This array contains any command Line Arguments that are passed to the program When it is executed.
+In this program, we use the 'args' array to access the first argument passed to the program using the index '0
+We then printout the message that includ- es the value of this argument using the system.out.println' statement. When this program is executed From the command Line with and argument, the output will be: hello.
+Overall, this program demonstrate how to read command line argument in a java program.
